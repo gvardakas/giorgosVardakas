@@ -1,4 +1,4 @@
-Hi, I’m Giorgos Vardakas (@giorgosVardakas) and I am currently a Ph.D. student at the Department of Computer Science & Engineering in University of Ioannina. 
+Hi, I’m Giorgos Vardakas (@giorgosVardakas) and I am currently a Ph.D. student at the Department of Computer Science & Engineering at University of Ioannina. 
 My reseach interests involves:
 * Machine Learning & Deep Learning
 * Pattern Recognition: Clustering, Classification
